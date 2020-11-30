@@ -3,6 +3,7 @@ Sample Packs
 
 # 90s sample cds. Includes jungle warfare vol 1 2 3
 https://archive.org/download/90ssamplecds This link has a torrent for most of the cds
+
 https://archive.org/details/90ssamplecds This link has all the cds for individual download
 
 # Huge collection of Akai Emu and Roland format sample cds
