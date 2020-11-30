@@ -27,3 +27,17 @@ Doubleclick breaks, Declassified breaks pack, Uber Breaks 1+2, Incognito breaks,
 # DOA Exclusive Sample Packs 
 https://www.dogsonacid.com/threads/doa-exclusive-sample-packs.776833/
 
+# Rhythm lab breakbeats
+https://rhythm-lab.com/breakbeats/
+
+# Sample swap breaks
+https://sampleswap.org/filebrowser-new.php?d=DRUM+LOOPS+and+BREAKS%2F
+
+# Old school break packs 4 volumes
+https://www.thesample.net/free-sample-packs/drum-loops/50-classic-hip-hop-break-loops-vol-1/
+
+# Break beat sample pack archive dot org
+https://archive.org/download/BreakbeatSamplePack1-8zip
+
+# Doa sample collection
+http://doa.totallyowns.co.uk/samples/packs/
