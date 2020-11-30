@@ -14,7 +14,11 @@ http://artmeetsscience.co.uk/tapes/
 
 # BBC One in the jungle archive
 https://rave-archive.com/bbc-radio-one-jungle-1995/
+
 https://soundcloud.com/historyofhappyhardcore/sets/bbc-radio-one-in-the-jungle
 
 # Old school samples
 http://www.breakbeat-paradise.com/samplesite/bb_sample_styles.php
+
+# Names of break packs to search for
+Doubleclick breaks, Declassified breaks pack, Uber Breaks 1+2, Incognito breaks, International breaks, Minty breaks, 101 breaks pack
