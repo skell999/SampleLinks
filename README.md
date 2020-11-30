@@ -23,3 +23,7 @@ http://www.breakbeat-paradise.com/samplesite/bb_sample_styles.php
 
 # Names of break packs to search for
 Doubleclick breaks, Declassified breaks pack, Uber Breaks 1+2, Incognito breaks, International breaks, Minty breaks, 101 breaks pack
+
+# DOA Exclusive Sample Packs 
+https://www.dogsonacid.com/threads/doa-exclusive-sample-packs.776833/
+
