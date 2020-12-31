@@ -41,3 +41,4 @@ https://archive.org/download/BreakbeatSamplePack1-8zip
 
 # Doa sample collection
 http://doa.totallyowns.co.uk/samples/packs/
+https://mega.nz/folder/rJhGBRDL#ellTLHnM3ot8uhSaA1nYsw
