@@ -12,6 +12,7 @@ https://vintagemusicsamples.wordpress.com/
 
 # Rave tape packs includes jungle/dnb
 http://artmeetsscience.co.uk/tapes/
+https://www.ravetapepacks.com/
 
 # BBC One in the jungle archive
 https://rave-archive.com/bbc-radio-one-jungle-1995/
